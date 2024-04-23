@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969973704073",
+    "project_id": "otp-login-ac99b",
+    "storage_bucket": "otp-login-ac99b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969973704073:android:70666941973a99e32fad58",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFaJh0nXWqd0Cls9F_QaSAnijmkm2JVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
